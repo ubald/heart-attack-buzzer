@@ -1,0 +1,3 @@
+[submodule "extlib/esp-homekit-sdk"]
+	path = extlib/esp-homekit-sdk
+	url = https://github.com/espressif/esp-homekit-sdk.git
